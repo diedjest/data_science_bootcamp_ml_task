@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# task files
+/catboost_info
+/data
+metric.py
+quickstart.ipynb
+sample_submission.csv
+solution.py
+test_task.zip
